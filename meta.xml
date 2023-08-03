@@ -1,0 +1,4 @@
+<meta>
+    <info author="[SW]Exile" description="A script to assist with GTA:SA stunt videos" version="0.1.0" type="script" />
+    <script src="client.lua" type="client"/>
+</meta>
