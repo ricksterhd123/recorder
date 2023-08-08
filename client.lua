@@ -177,6 +177,8 @@ end
 --
 -- Main controls
 --
+-- Main controls
+--
 
 function Recording:start()
     if not self.timer then
